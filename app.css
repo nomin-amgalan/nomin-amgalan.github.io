@@ -1,0 +1,23 @@
+*{
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+body{
+    background-color: rgb(255, 204, 128);
+}
+
+h1 {
+    color: white;
+}
+
+#intro {
+    background-color: white;
+}
+
+#links{
+    background-color: white;
+}
+
+#project{
+    background-color: white;
+}
