@@ -1,7 +1,18 @@
 *{
     font-family: Tahoma, Geneva, sans-serif;
 }
-
+h2{
+    background-color: white;
+}
+h3{
+    background-color: white;
+}
+h4{
+    background-color: white;
+}
+p {
+    background-color: white;
+}
 body{
     background-color: rgb(255, 204, 128);
 }
@@ -19,5 +30,9 @@ h1 {
 }
 
 #project{
+    background-color: white;
+}
+
+#upload{
     background-color: white;
 }
