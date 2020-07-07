@@ -1,0 +1,17 @@
+*{
+    font-family: Tahoma, Geneva, sans-serif;
+}
+h2{
+    background-color: white;
+    font-weight: bold;
+}
+h4{
+    background-color: white;
+    font-weight: lighter;
+}
+p {
+    background-color: white;
+}
+body{
+    background-color: rgb(255, 204, 128);
+}
